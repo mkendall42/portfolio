@@ -2,21 +2,30 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Cornell College
+    role: Associate Director, Career Coaching and Experiential Learning
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Chaired the Health Professions Committee, provided feedback for graduate school applications; helped students achieve excellent outcomes, including >75% acceptance rate into medical school
+      - Advised students interested in the natural sciences and health professions; served as academic advisor (over 300 appointments / year) 
+      - Served on campus-wide experiential learning committee; worked closely with the Office of Information Technology to design an in-house experiential learning application portal
+      - Coordinated and grew annual summer internship opportunities for students at several sites, including the Mayo Clinic and Children’s Hospital Colorado / Anschutz Medical Campus
+    date: Jun 2016 - Jul 2024
+  - title: Cornell College
+    role: Lecturer in Physics
+    description:
+      - Taught as instructor of record for multiple physics courses in the Department of Physics and Engineering
+      - Structured classes with a combination of interactive lecture, demonstrations, group and individual problem-solving sessions, and laboratory experiments to maximize students’ learning
+      - Assisted with organization and execution of labs in collaboration with the lab instructor; led radioactivity lab, ensuring strict safety protocols were followed in handling of radioactive samples
+    date: Nov 2018 - May 2024
+  # - title: Amazone                              #Later perhaps add other work here?  It goes pretty far back at that point, and probably doesn't add much...worth it?
+  #   role: Senior Software Engineer
+  #   description: 
+  #     - Built a Java microservice, database schema to manage customer accounts
+  #     - Enhanced internal pipelines to query real-time data from client devices
+  #   date: Apr. 2016 - Dec. 2018
+  # - title: Pacebook
+  #   role: Software Engineer Intern
+  #   description: 
+  #     - Designed the dynamic website using React for data visualization
+  #     - Integrated '*Yolo*' to boost the accuracy of the object detection
+  #   date: Jul. 2013 - Sep. 2013

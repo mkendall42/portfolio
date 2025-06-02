@@ -1,21 +1,28 @@
 subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
+#Add more projects over time.  How many is best?  About 3?  What about smaller contributions to big projects?  Stick mostly with more recent projects?
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Watts My Electricity Bill ([GitHub link](https://github.com/mkendall42/Watts-My-Electricity-Bill-FE))"
+    date: Apr 2025          #Isn't this a good idea to include?  (It was not here by default)
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Full-stack application providing users with cost estimates given residence type and location
+      - Led group project organization and planning, and backend / frontend distribution of work
+      - Utilized multiple 3rd party datasets and APIs (EIA, OpenEI) to synthesize accurate estimates
+      - Focused on test-driven development on frontend and backend (100% backend test coverage)
+      - "Technology used: Javascript, Rails, Ruby, React, Cypress, RSpec"
+    # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"                        #Perhaps add image or icon later (if I spruce the actual project up)
+  - title: "Viewing Party ([GitHub link](https://github.com/mkendall42/viewing-party-api-markfork))"
+    date: Apr 2025
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Backend application which allows users (password authentication using Bcrypt) to browse movies and create viewing parties in order to watch with friends
+      - Utilized 3rd party API calls to movie database, mocking and stubbing in tests with VCR
+      - Implemented CRUD functionality, ensuring RESTful and MVC conventions followed
+      - Developed backend database structure via Rails and PostgreSQL, including full data validation
+      - "Technology Used: Rails, Ruby, RSpec, WebMock / VCR, Postman"
+    # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  # - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  #   description: 
+  #     - Machine learning library for applications such as computer vision and natural language processing
+  #     - "Technology Used: Python, Cuda, Objective-C++"
+  #   image: "![](https://i.ibb.co/R9150c4/12421323.webp)"

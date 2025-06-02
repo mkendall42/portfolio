@@ -1,18 +1,18 @@
-title: My Portfolio Site
-profile_img: /assets/img/logo.png
-icon_img: /assets/img/logo.png
+title: Mark Kendall's Portfolio
+profile_img: /assets/img/mkendall_photosmall.png          #Change this (or at LEAST rescale) later!
+icon_img: /assets/img/mkendall_photosmall.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Mark Kendall"
+job: "Software Engineer, Physicist"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+# phone_number: 555-555-5555                                #I might remove this...I'd rather not just easily give out my phone number online...
+address: Cedar Rapids, IA
+email: mkendall.tutor@gmail.com
+linkedin_username: markkendall496
+github_username: mkendall42
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 
